@@ -1,0 +1,24 @@
+/* Responsive CSS based off popular break points */
+
+@media all and (max-width: 600px) {
+	header {
+		-webkit-flex-flow: column wrap;
+		   -moz-flex-flow: column wrap;
+			 -o-flex-flow: column wrap;
+				flex-flow: column wrap;
+				
+		height: auto;
+	}
+	#logo {
+		margin: auto;
+	}
+	.navigation {
+		-webkit-flex-direction: column;
+		-moz-flex-direction: column;
+		-o-flex-direction: column;
+		flex-direction: column;
+	}
+	.navigation__div {
+		margin: 2px 0;
+	}
+}
