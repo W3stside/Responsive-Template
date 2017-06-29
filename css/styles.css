@@ -99,7 +99,7 @@ header {
 	width: 100%;
 	
 	/*Can Change*/
-	height: 50px;
+	height: 8rem;
 }
 .navigation {
 	/* DO NOT CHANGE */
@@ -109,7 +109,7 @@ header {
 .navigation__div {
 	/* DO NOT CHANGE */
 	display: flex;
-	margin: 0 10px; padding: 0 10px;
+	margin: 0 1rem; padding: 0 1rem;
 }
 .navigation__div > a {
 	/* DO NOT CHANGE */
@@ -128,7 +128,7 @@ article#main-content {
 	margin: auto 0;
 	
 	/*Can Change*/
-	min-height: 1200px;
+	min-height: 12rem;
 }
 
 /* Articles >> Sections */
@@ -138,8 +138,8 @@ article#main-content {
 	
 	/*Can Change*/
 	background: antiquewhite;
-	border: 3px dotted black;
-	height: 500px;    
+	border: 1px dotted black;
+	height: 50rem;    
 }
 
 /* Footer */
@@ -150,5 +150,5 @@ footer {
 	
 	/*Can Change */
 	background: aliceblue;
-	height: 200px;
+	height: 20rem;
 }
