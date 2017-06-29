@@ -87,14 +87,7 @@ html, body {
 
 .responsive-img {
 	max-width: 100%;
-    height: auto;
-}
-
-/* Flex Properties */
-flex-container_row-center-all {
-	/* DO NOT CHANGE */
-	display: flex; justify-content: center; align-items: center;
-	flex-direction: row wrap;
+	height: auto;
 }
 
 /*Header*/
@@ -107,7 +100,6 @@ header {
 	
 	/*Can Change*/
 	height: 50px;
-	
 }
 .navigation {
 	/* DO NOT CHANGE */
@@ -140,13 +132,13 @@ article#main-content {
 }
 
 /* Articles >> Sections */
-
 .sections {
 	/*DO NOT CHANGE*/
 	display: flex; flex-flow: row wrap; justify-content: center; align-items: center;
+	
 	/*Can Change*/
-    background: antiquewhite;
-    border: 3px dotted black;
+	background: antiquewhite;
+	border: 3px dotted black;
 	height: 500px;    
 }
 
