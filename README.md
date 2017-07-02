@@ -1,6 +1,6 @@
-"#mobile_first_template" 
+"#Responsive Template" 
 
-Mobile First Template for building responsive websites.
+Mobile Friendly, Responsive Template for quickly building responsive websites. Ultra light template.
 
 Lightweight - uses native Flexbox properties. Will not work on browsers not supporting Flexbox.
 
