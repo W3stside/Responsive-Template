@@ -102,10 +102,11 @@ html, body {
 	text-shadow: 0.4px 0.4px 8px rgba(0,0,0,0.35);
 }
 
-h1 {
-	/*Can Change*/
-	font-size: 4rem;
-}
+h1 { font-size: 4rem;}
+h2 { font-size: 3rem;}
+h3 { font-size: 2rem;}
+h4 { font-size: 1.75rem;}
+h5 { font-size: 1.5rem; }
 /*Flex-Box*/
 
 /*EXPIREMENTAL*/
@@ -189,7 +190,7 @@ header {
 	/* DO NOT CHANGE */
 	margin: auto;
 }
-#logo {
+#logo__img {
 	/* DO NOT CHANGE */
 	display: flex; align-items: center; justify-content: center;
 	margin-right: auto;
@@ -234,6 +235,9 @@ footer {
 .footer__links-container {
 	padding: 2rem;
 }
+footer h1 {
+	font-size: 3rem;
+}
 .footer__ul {
 	padding-right: 1rem;
 }
@@ -241,7 +245,6 @@ footer {
 .footer__li {
 	font-size: 1.5rem;
 }
-.footer__logo {
+#footer__img {
 	max-width: 150px;
-	margin: auto;
 }
