@@ -35,8 +35,12 @@
 		height: auto;
 	}
 	/* HEADER */
+	header {
+		padding: 3rem 0 2rem 0;
+	}
 	#logo__img {
 		margin: auto;
+		padding: 0 0 2rem 0;
 	}
 	.navigation-right {
 		/*DO NOT CHANGE*/
